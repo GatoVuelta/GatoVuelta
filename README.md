@@ -1,4 +1,4 @@
-## Hello World! ![Ecuador](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/twitter/322/flag-ecuador_1f1ea-1f1e8.png){:height="50px" width="100px"}
+## Hello World! 👋
 
 ### Stats
   <div align="center">
