@@ -25,8 +25,8 @@
 ## Contact me:
   ### Discord:
   <div align="center">
-    <a href="https://discord.com/users/790614903622729818">
-      <img align="center" src="https://lanyard.cnrad.dev/api/790614903622729818" />
+    <a href="https://discord.com/users/1138198834003050637">
+      <img align="center" src="https://lanyard.cnrad.dev/api/1138198834003050637" />
     </a>
   </div>
   
