@@ -11,7 +11,7 @@
     </a>
     <br><br>
     <a href="https://github.com/GatoVuelta">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoVuelta&border_color=666e77&count_private=true&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&&bg_color=0d1117&langs_count=4" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatoVuelta&border_color=666e77&count_private=true&hide=css,yacc,nsis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&&bg_color=0d1117&langs_count=4" />
     </a>
   </div>
 
